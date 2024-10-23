@@ -20,7 +20,7 @@ public class AboutWindow extends JFrame {
 	private static AboutWindow windowInstance = null;
 
 	/**
-	 * Create the aboutWindow frame
+	 * Create the aboutWindow frame .
 	 */
 	private AboutWindow() {
 		setTitle(BUNDLE.getString("AboutWindow.this.title")); //$NON-NLS-1$
