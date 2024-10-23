@@ -126,4 +126,4 @@ public class Currency {
 		
 		return price;
 	}
-}
+} 
